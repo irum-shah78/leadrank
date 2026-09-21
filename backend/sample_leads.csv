@@ -1,0 +1,64 @@
+first_name,last_name,email,title,company,website,industry,employees,country,linkedin_url
+Alice,Morgan,alice.morgan@acmecorp.com,Founder & CEO,Acme Corp,https://www.acmecorp.com,SaaS,45,United States,https://linkedin.com/in/alicemorgan
+Bob,Chen,bob.chen@acmecorp.com,Head of Sales,Acme Corp,https://www.acmecorp.com,SaaS,45,United States,https://linkedin.com/in/bobchen
+Carol,Davis,carol.davis@gmail.com,CEO,BrightPay,https://brightpay.io,Fintech,18,United States,https://linkedin.com/in/caroldavis
+Dan,Wilson,dan.wilson@brightpay.io,CTO,BrightPay,https://brightpay.io,Fintech,18,United States,https://linkedin.com/in/danwilson
+Elena,Rossi,elena.rossi@nordicloud.se,Founder,Nordic Cloud,https://nordicloud.se,SaaS,32,Sweden,https://linkedin.com/in/elenarossi
+Frank,Kim,frank.kim@nordicloud.se,VP Engineering,Nordic Cloud,https://nordicloud.se,SaaS,32,Sweden,https://linkedin.com/in/frankkim
+Grace,Patel,grace.patel@healthstack.co,CEO,HealthStack,https://healthstack.co,Healthcare,120,United Kingdom,https://linkedin.com/in/gracepatel
+Henry,Brooks,henry.brooks@healthstack.co,Head of Product,HealthStack,https://healthstack.co,Healthcare,120,United Kingdom,https://linkedin.com/in/henrybrooks
+Ivy,Nguyen,ivy.nguyen@yahoo.com,Founder,ShopFlow,https://shopflow.app,E-commerce,8,United States,https://linkedin.com/in/ivynguyen
+Jack,Turner,jack.turner@shopflow.app,COO,ShopFlow,https://shopflow.app,E-commerce,8,United States,https://linkedin.com/in/jackturner
+Kara,Singh,kara.singh@datavault.ai,CEO,DataVault,https://datavault.ai,SaaS,75,Canada,https://linkedin.com/in/karasingh
+Leo,Martinez,leo.martinez@datavault.ai,Head of Growth,DataVault,https://datavault.ai,SaaS,75,Canada,https://linkedin.com/in/leomartinez
+Mia,Johnson,mia.johnson@outlook.com,Founder,GreenLogistics,https://greenlogistics.com,Logistics,200,United States,https://linkedin.com/in/miajohnson
+Noah,Lee,noah.lee@greenlogistics.com,VP Operations,GreenLogistics,https://greenlogistics.com,Logistics,200,United States,https://linkedin.com/in/noahlee
+Olivia,Brown,olivia.brown@edulearn.edu,CEO,EduLearn,https://edulearn.edu,EdTech,55,United Kingdom,https://linkedin.com/in/oliviabrown
+Paul,Garcia,paul.garcia@edulearn.edu,Head of Sales,EduLearn,https://edulearn.edu,EdTech,55,United Kingdom,https://linkedin.com/in/paulgarcia
+Quinn,Adams,quinn.adams@secureauth.io,Founder & CEO,SecureAuth,https://secureauth.io,Cybersecurity,28,United States,https://linkedin.com/in/quinnadams
+Rachel,White,rachel.white@secureauth.io,CTO,SecureAuth,https://secureauth.io,Cybersecurity,28,United States,https://linkedin.com/in/rachelwhite
+Sam,Clark,info@mediakit.com,Marketing Manager,MediaKit,https://mediakit.com,Marketing,40,Australia,https://linkedin.com/in/samclark
+Tina,Hall,tina.hall@mediakit.com,CEO,MediaKit,https://mediakit.com,Marketing,40,Australia,https://linkedin.com/in/tinahall
+Uma,Shah,uma.shah@finledger.com,Founder,FinLedger,https://finledger.com,Fintech,90,India,https://linkedin.com/in/umashah
+Victor,Lopez,victor.lopez@finledger.com,Head of Product,FinLedger,https://finledger.com,Fintech,90,India,https://linkedin.com/in/victorlopez
+Wendy,Park,wendy.park@retailai.co.kr,CEO,RetailAI,https://retailai.co.kr,E-commerce,15,South Korea,https://linkedin.com/in/wendypark
+Xavier,Young,xavier.young@retailai.co.kr,VP Engineering,RetailAI,https://retailai.co.kr,E-commerce,15,South Korea,https://linkedin.com/in/xavieryoung
+Yara,Hassan,yara.hassan@cloudnest.io,Founder,CloudNest,https://cloudnest.io,SaaS,22,Germany,https://linkedin.com/in/yarahassan
+Zack,Miller,zack.miller@cloudnest.io,Head of Sales,CloudNest,https://cloudnest.io,SaaS,22,Germany,https://linkedin.com/in/zackmiller
+Amy,Foster,amy.foster@pulsehr.com,CEO,PulseHR,https://pulsehr.com,HR Tech,60,United States,https://linkedin.com/in/amyfoster
+Ben,Carter,ben.carter@pulsehr.com,COO,PulseHR,https://pulsehr.com,HR Tech,60,United States,https://linkedin.com/in/bencarter
+Chloe,Nguyen,chloe.nguyen@gmail.com,Founder,LegalEase,https://legalease.app,Legal Tech,12,Canada,https://linkedin.com/in/chloenguyen
+Derek,Owen,derek.owen@legalease.app,CTO,LegalEase,https://legalease.app,Legal Tech,12,Canada,https://linkedin.com/in/derekowen
+Emma,Walsh,emma.walsh@proptech.io,CEO,PropTech Hub,https://proptech.io,Real Estate,110,United Kingdom,https://linkedin.com/in/emmawalsh
+Felix,Grant,felix.grant@proptech.io,Head of Growth,PropTech Hub,https://proptech.io,Real Estate,110,United Kingdom,https://linkedin.com/in/felixgrant
+Gina,Torres,gina.torres@agrisense.com,Founder,AgriSense,https://agrisense.com,Agriculture,35,Brazil,https://linkedin.com/in/ginatorres
+Hugo,Blanc,hugo.blanc@agrisense.com,VP Sales,AgriSense,https://agrisense.com,Agriculture,35,Brazil,https://linkedin.com/in/hugoblanc
+Iris,Chen,iris.chen@movemetrics.ai,CEO,MoveMetrics,https://movemetrics.ai,Healthcare,48,Singapore,https://linkedin.com/in/irischen
+Jake,Reed,jake.reed@movemetrics.ai,Head of Product,MoveMetrics,https://movemetrics.ai,Healthcare,48,Singapore,https://linkedin.com/in/jakereed
+Kate,Morris,kate.morris@buildstack.dev,Founder & CEO,BuildStack,https://buildstack.dev,SaaS,9,United States,https://linkedin.com/in/katemorris
+Liam,Scott,liam.scott@buildstack.dev,CTO,BuildStack,https://buildstack.dev,SaaS,9,United States,https://linkedin.com/in/liamscott
+Maya,Khan,maya.khan@yahoo.com,CEO,PayBridge,https://paybridge.co,Fintech,150,United Arab Emirates,https://linkedin.com/in/mayakhan
+Nate,Baker,nate.baker@paybridge.co,Head of Sales,PayBridge,https://paybridge.co,Fintech,150,United Arab Emirates,https://linkedin.com/in/natebaker
+Owen,Price,sales@travelkit.com,Account Manager,TravelKit,https://travelkit.com,Travel,25,Spain,https://linkedin.com/in/owenprice
+Paula,Diaz,paula.diaz@travelkit.com,CEO,TravelKit,https://travelkit.com,Travel,25,Spain,https://linkedin.com/in/pauladiaz
+Rita,Evans,rita.evans@insightops.io,Founder,InsightOps,https://insightops.io,SaaS,70,Netherlands,https://linkedin.com/in/ritaevans
+Steve,Hughes,steve.hughes@insightops.io,VP Engineering,InsightOps,https://insightops.io,SaaS,70,Netherlands,https://linkedin.com/in/stevehughes
+Tara,Kim,tara.kim@foodly.app,CEO,Foodly,https://foodly.app,E-commerce,5,United States,https://linkedin.com/in/tarakim
+Umar,Ali,umar.ali@foodly.app,COO,Foodly,https://foodly.app,E-commerce,5,United States,https://linkedin.com/in/umarali
+Xena,Brooks,xena.brooks@outlook.com,CEO,LearnPath,https://learnpath.edu,EdTech,200,United States,https://linkedin.com/in/xenabrooks
+Yuri,Petrov,yuri.petrov@learnpath.edu,CTO,LearnPath,https://learnpath.edu,EdTech,200,United States,https://linkedin.com/in/yuripetrov
+Zoe,Anders,zoe.anders@fleetwise.com,Founder,FleetWise,https://fleetwise.com,Logistics,95,Germany,https://linkedin.com/in/zoeanders
+Adam,Cole,adam.cole@fleetwise.com,Head of Sales,FleetWise,https://fleetwise.com,Logistics,95,Germany,https://linkedin.com/in/adamcole
+Beth,Nolan,beth.nolan@hrflow.io,CEO,HRFlow,https://hrflow.io,HR Tech,30,Ireland,https://linkedin.com/in/bethnolan
+Carl,Dunn,carl.dunn@hrflow.io,Founder,HRFlow,https://hrflow.io,HR Tech,30,Ireland,https://linkedin.com/in/carldunn
+Dana,Perez,dana.perez@not-an-email,Marketing Lead,BadData Co,https://baddata.co,Marketing,20,United States,https://linkedin.com/in/danaperez
+Eric,Moss,admin@supportbox.com,Support Lead,SupportBox,https://supportbox.com,SaaS,50,United States,https://linkedin.com/in/ericmoss
+Alice,Morgan,alice.morgan@acmecorp.com,Founder & CEO,Acme Corp,https://www.acmecorp.com,SaaS,45,United States,https://linkedin.com/in/alicemorgan
+Kara,Singh,kara.singh@datavault.ai,CEO,DataVault,https://datavault.ai,SaaS,75,Canada,https://linkedin.com/in/karasingh
+Fiona,Gray,fiona.gray@cleanwater.org,Director,CleanWater NGO,https://cleanwater.org,Nonprofit,400,United States,https://linkedin.com/in/fionagray
+Greg,Hill,greg.hill@megabank.com,VP Banking,MegaBank,https://megabank.com,Finance,5000,United States,https://linkedin.com/in/greghill
+Helen,Wu,helen.wu@tinytools.dev,Founder,TinyTools,https://tinytools.dev,SaaS,3,United States,https://linkedin.com/in/helenwu
+Ian,Frost,,CEO,NoEmail Inc,https://noemail.example.com,SaaS,40,Canada,https://linkedin.com/in/ianfrost
+Jenny,Cruz,jenny.cruz@acmecorp.com,Intern,Acme Corp,https://www.acmecorp.com,SaaS,45,United States,https://linkedin.com/in/jennycruz
+Kevin,Bell,kevin.bell@brightpay.io,Customer Success,BrightPay,https://brightpay.io,Fintech,18,United States,https://linkedin.com/in/kevinbell
+Laura,Sims,laura.sims@nordicloud.se,Office Manager,Nordic Cloud,https://nordicloud.se,SaaS,32,Sweden,https://linkedin.com/in/laurasims

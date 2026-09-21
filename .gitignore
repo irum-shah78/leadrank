@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/.venv/
+backend/venv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Next.js
+frontend/.next/
+frontend/out/
+*.tsbuildinfo
+frontend/tsconfig.tsbuildinfo
+
+# Python venv alternate names
+backend/venv/
+
+# Env and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Logs and coverage
+*.log
+npm-debug.log*
+coverage/
+.pytest_cache/
+
+# Build
+dist/
+build/
